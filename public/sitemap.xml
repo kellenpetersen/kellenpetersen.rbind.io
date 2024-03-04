@@ -38,19 +38,37 @@
     <loc>//localhost:4321/collection/day02/03-blogdown/</loc>
     <lastmod>2021-01-02T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>//localhost:4321/categories/</loc>
+    <lastmod>2021-08-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:4321/tags/hugo-site/</loc>
+    <lastmod>2021-08-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:4321/</loc>
+    <lastmod>2021-08-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:4321/categories/package/</loc>
+    <lastmod>2021-08-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:4321/categories/r/</loc>
+    <lastmod>2021-08-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:4321/research/</loc>
+    <lastmod>2021-08-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:4321/research/risk_scores/</loc>
+    <lastmod>2021-08-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:4321/tags/</loc>
+    <lastmod>2021-08-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:4321/categories/theme-features/</loc>
+    <lastmod>2021-08-30T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>//localhost:4321/blog/</loc>
     <lastmod>2021-01-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/categories/</loc>
-    <lastmod>2021-01-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:4321/</loc>
-    <lastmod>2021-01-28T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>//localhost:4321/blog/social/</loc>
-    <lastmod>2021-01-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:4321/categories/theme-features/</loc>
     <lastmod>2021-01-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:4321/tags/style/</loc>
@@ -60,9 +78,6 @@
     <lastmod>2021-01-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:4321/blog/fonts/</loc>
-    <lastmod>2021-01-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:4321/tags/</loc>
     <lastmod>2021-01-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:4321/collection/</loc>
@@ -89,12 +104,6 @@
     <loc>//localhost:4321/blog/spoonful-series/</loc>
     <lastmod>2021-01-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/tags/hugo-site/</loc>
-    <lastmod>2021-01-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:4321/categories/r/</loc>
-    <lastmod>2021-01-03T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>//localhost:4321/series/</loc>
     <lastmod>2021-01-03T00:00:00+00:00</lastmod>
   </url><url>
@@ -114,9 +123,6 @@
     <lastmod>2020-01-13T14:15:59-06:00</lastmod>
   </url><url>
     <loc>//localhost:4321/project/</loc>
-    <lastmod>2019-07-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:4321/categories/package/</loc>
     <lastmod>2019-07-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:4321/project/giraffes/</loc>

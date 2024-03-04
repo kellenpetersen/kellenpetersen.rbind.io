@@ -1,18 +1,26 @@
 ---
-title: "Hugo Apéro"
-subtitle: "A Hugo theme you'll want to hang out with"
-description: "Sit down, relax, and get to know Hugo Apéro. Built on top of Blogophonic, we wanted to create a polished Hugo theme with the right features for a true personal website. We set out to create a theme that is a pleasure to learn, and one that helps others get to know you better. It is more than a blog, with flexible custom layouts that help you introduce yourself online."
-images:
-  - img/revoir.jpg
-image_left: true
-text_align_left: false
-show_social_links: true # specify social accounts in site config
 show_action_link: true
-action_link: /about
-action_label: "Read More &rarr;"
-action_type: text # text, button
-type: home
----
+action_label: CV
+action_link: /cv_KellenPetersen_2023_08_30.pdf
+action_type: button
 
-** index doesn't contain a body, just front matter above.
-See index.html in the layouts folder **
+show_action_link2: true
+action_label2: Publications
+action_link2: /cv_KellenPetersen_2023_08_30b.pdf
+
+description: "Kellen Petersen, PhD joined the [Fluid Biomarker Core Lab](https://fluidbiomarkercorelab.wustl.edu/our-team/) in March 2024 as an Instructor in the Department of Neurology at Washington University in St. Louis. 
+
+He received a PhD in Applied Mathematics from the Courant Institute of Mathematical Sciences at New York University. Following his doctoral work, he was a postdoctoral research fellow at the Albert Einstein College of Medicine. There he applied statistical models and machine learning approaches to understand the relationship between biomarkers of Alzheimer’s disease, cognition, and disease progression. He also has worked on methods aimed at understanding AD heterogeneity as well as developing accurate diagnostic and prognostic tools for clinicians and researchers."
+image_left: false
+images:
+- img/profile_pic.jpg
+show_social_links: true
+subtitle: Mathematician, Data Scientist, and Alzheimer's disease researcher
+text_align_left: false
+title: Kellen Petersen
+type: home
+outputs:
+- html
+- rss
+- json
+---

@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hugo-Site on Hugo Apéro</title>
+    <title>Hugo-Site on Kellen Petersen</title>
     <link>//localhost:4321/tags/hugo-site/</link>
-    <description>Recent content in Hugo-Site on Hugo Apéro</description>
+    <description>Recent content in Hugo-Site on Kellen Petersen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 03 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 30 Aug 2021 00:00:00 +0000</lastBuildDate>
     <atom:link href="//localhost:4321/tags/hugo-site/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A first post</title>
@@ -28,6 +28,13 @@
       <pubDate>Sun, 03 Jan 2021 00:00:00 +0000</pubDate>
       <guid>//localhost:4321/blog/spoonful-series/03-spoonful/</guid>
       <description>Hi, I&#39;m the here-bot cat! Use me to find your way in your website.&#xA;Here I am: content/blog/spoonful-series/03-spoonful/index.markdown Here is my R Markdown source file: blog/spoonful-series/03-spoonful/index.Rmarkdown You&#39;ll want to edit this file, then re-knit to see the changes take effect in your site preview.&#xA;To remove me, delete this line inside that file: {{&amp;lt; here &amp;gt;}}&#xA;My content section is: blog My layout is: single-series Images in this page bundle: /blog/spoonful-series/03-spoonful/featured-photo.</description>
+    </item>
+    <item>
+      <title>Risk Scores</title>
+      <link>//localhost:4321/research/risk_scores/</link>
+      <pubDate>Mon, 30 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>//localhost:4321/research/risk_scores/</guid>
+      <description>Functional Form This theme has a form-to-email feature built in, thanks to the simple Formspree integration. All you need to activate the form is a valid recipient email address saved in the front matter of the form (/content/forms/contact.md). Of course, the example shown below (your@email.here) must not be used. Please use your actual email address.&#xA;# please replace with a valid Formspree form id or email address formspree_form_id: your@email.here Update that file and you&amp;rsquo;re ready to begin receiving submissions.</description>
     </item>
     <item>
       <title>Tachyons for Style</title>

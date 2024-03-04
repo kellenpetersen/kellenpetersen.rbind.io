@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Research on Kellen Petersen</title>
+    <link>//localhost:4321/research/</link>
+    <description>Recent content in Research on Kellen Petersen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 30 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:4321/research/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Risk Scores</title>
+      <link>//localhost:4321/research/risk_scores/</link>
+      <pubDate>Mon, 30 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>//localhost:4321/research/risk_scores/</guid>
+      <description>Functional Form This theme has a form-to-email feature built in, thanks to the simple Formspree integration. All you need to activate the form is a valid recipient email address saved in the front matter of the form (/content/forms/contact.md). Of course, the example shown below (your@email.here) must not be used. Please use your actual email address.&#xA;# please replace with a valid Formspree form id or email address formspree_form_id: your@email.here Update that file and you&amp;rsquo;re ready to begin receiving submissions.</description>
+    </item>
+  </channel>
+</rss>

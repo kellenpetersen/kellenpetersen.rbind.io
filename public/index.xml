@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hugo Apéro</title>
+    <title>Kellen Petersen</title>
     <link>//localhost:4321/</link>
-    <description>Recent content on Hugo Apéro</description>
+    <description>Recent content on Kellen Petersen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 28 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 30 Aug 2021 00:00:00 +0000</lastBuildDate>
     <atom:link href="//localhost:4321/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Netlify</title>
@@ -77,6 +77,13 @@
       <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
       <guid>//localhost:4321/collection/day02/03-blogdown/</guid>
       <description> Hi, I&#39;m the here-bot cat! Use me to find your way in your website.&#xA;Here I am: content/collection/day02/03-blogdown/index.md To remove me, delete this line inside that file: {{&amp;lt; here &amp;gt;}}&#xA;My content section is: collection My layout is: single-series part 2! does this work? now for some very cool things more get ready! </description>
+    </item>
+    <item>
+      <title>Risk Scores</title>
+      <link>//localhost:4321/research/risk_scores/</link>
+      <pubDate>Mon, 30 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>//localhost:4321/research/risk_scores/</guid>
+      <description>Functional Form This theme has a form-to-email feature built in, thanks to the simple Formspree integration. All you need to activate the form is a valid recipient email address saved in the front matter of the form (/content/forms/contact.md). Of course, the example shown below (your@email.here) must not be used. Please use your actual email address.&#xA;# please replace with a valid Formspree form id or email address formspree_form_id: your@email.here Update that file and you&amp;rsquo;re ready to begin receiving submissions.</description>
     </item>
     <item>
       <title>Set up your social</title>
